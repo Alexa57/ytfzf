@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+1#!/usr/bin/env sh
 
 #versioning system:
 #major.minor.bugs
